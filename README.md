@@ -8,8 +8,8 @@ include parameters related to an individual’s heart health like age, gender, s
 cholesterol, blood sugar, etc.
 
 The project implementation steps will go as follows:
-• Understand the dataset attributes
-• Apply the required data cleaning methods
+• Understand the dataset attributes.
+• Apply the required data cleaning methods.
 • Implement different classification models to investigate the performance of
 each classifier on heart disease datasets.
 • Mention your observations and study the parameters that play a vital role
@@ -17,4 +17,4 @@ in determining the health condition of people’s hearts (ex. Gender-based
 analysis, age-based analysis, ... etc.)
 (What percentage of younger people are prone to be diagnosed with heart
 disease?
-Are women more prone to heart diseases, or is it the other way?
+Are women more prone to heart diseases, or is it the other way?.
