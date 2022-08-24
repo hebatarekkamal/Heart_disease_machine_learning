@@ -8,6 +8,7 @@ include parameters related to an individual’s heart health like age, gender, s
 cholesterol, blood sugar, etc.
 
 The project implementation steps will go as follows:
+
 • Understand the dataset attributes.
 
 • Apply the required data cleaning methods.
